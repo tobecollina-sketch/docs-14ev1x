@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-69vcbu.cingbet138.site/sitemap.xml
